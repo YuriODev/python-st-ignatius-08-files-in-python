@@ -1,10 +1,10 @@
 # 📘 Working with Files in Python
 
-![GitHub contributors](https://img.shields.io/github/contributors/YurioDev/python-yuriodev-08-files-in-p?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/YurioDev/python-yuriodev-08-files-in-p?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/YurioDev/python-yuriodev-08-files-in-p?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/YurioDev/python-yuriodev-08-files-in-p?style=for-the-badge)
-![License](https://img.shields.io/github/license/YurioDev/python-yuriodev-08-files-in-p?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/YurioDev/python-yuriodev-08-files-in-python?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/YurioDev/python-yuriodev-08-files-in-python?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/YurioDev/python-yuriodev-08-files-in-python?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/YurioDev/python-yuriodev-08-files-in-python?style=for-the-badge)
+![License](https://img.shields.io/github/license/YurioDev/python-yuriodev-08-files-in-python?style=for-the-badge)
 
 Welcome to the **Files Module** of the **YuriODev Comprehensive Python Course**. In this module, you'll learn how to handle files in Python, which is essential for reading from and writing to external data sources.
 
